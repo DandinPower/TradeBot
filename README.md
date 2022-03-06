@@ -63,11 +63,11 @@ pip install plotly
 - 九轉序列策略
     
     ```bash
-    python nineturn.py
+    python Stategy/nineturn.py
     ```
     
 - Rvi策略
     
     ```bash
-    python rvi.py
+    python Stategy/rvi.py
     ```
